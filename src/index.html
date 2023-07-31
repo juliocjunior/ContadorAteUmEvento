@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniversário 2023</title>
+    <link rel="stylesheet" href="./styles/main.scss">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <div class="container">
+            <h2>Faltam <span id="contador">3d 7h 3m</span> para</h2>
+            <h1>Minha Festa de Aniversário de 2023</h1>
+            <div class="marcarpresenca">
+                <input id="nome" type="text" placeholder="Nome">
+                <input id="celular" type="text" placeholder="Celular">
+                <input id="email" type="text" placeholder="email (opcional)">
+                <p class="mensagemErro naoVisivel" id="erroNome">Nome Inválido</p>
+                <p class="mensagemErro naoVisivel" id="erroCelular">Celular Inválido</p>
+                <button id="botao" type="submit">Marcar Presença!</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

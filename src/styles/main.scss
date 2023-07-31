@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #dfdfdf;
+}
+
+main {
+    .container {
+        margin: 0 auto;
+        width: 80%;
+        margin-top: 25vh;
+
+        h2 {
+            margin-bottom: 1vh;
+            @media (max-width: 400px) {
+                font-size: 22px;
+            } 
+        }
+
+        .marcarpresenca {
+            margin: 0 auto;
+            margin-top: 5vh;
+            max-width: 400px;
+            
+            input {
+                display: block;
+                margin: 0 auto;
+                border: none;
+                border-bottom: 2px solid #000;
+                margin-bottom: 2vh;
+                font-size: 22px;
+                background-color: #dfdfdf;
+                width: 100%;
+            }
+
+            button {
+                margin-top: 1vh;
+                background-color: #000;
+                padding: 10px;
+                width: 100%;
+                border-radius: 8px;
+                font-size: 22px;
+                border: none;
+                cursor: pointer;
+                color: #dfdfdf;
+            }
+
+            .mensagemErro {
+                color: red;
+                border: 1px solid red;
+                margin-bottom: 1vh;
+                padding: 5px;
+            }
+        }
+    }
+}
+
+.naoVisivel {
+    display: none;
+}
