@@ -29,6 +29,12 @@ const contaAsHoras = setInterval(function () {
     }
 }, 1000);
 
+$(document).ready(function() {
+    const inputCelular = $('#celular');
+    
+    inputCelular.mask('00000-0000');
+});
+
 
 document.querySelector('#botao').addEventListener('click', function() {
     let nome = document.querySelector('#nome').value;

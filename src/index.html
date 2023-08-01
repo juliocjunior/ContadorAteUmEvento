@@ -16,8 +16,8 @@
             <h2>Faltam <span id="contador">0d 0h 0m</span> para</h2>
             <h1>Minha Festa de Aniversário de 2024</h1>
             <div class="marcarpresenca">
-                <input id="nome" type="text" placeholder="Nome">
-                <input id="celular" type="text" placeholder="Celular">
+                <input id="nome" type="text" placeholder="Nome" required>
+                <input id="celular" type="text" placeholder="Celular" required>
                 <input id="email" type="text" placeholder="email (opcional)">
                 <p class="mensagemErro naoVisivel" id="erroNome">Nome Inválido</p>
                 <p class="mensagemErro naoVisivel" id="erroCelular">Celular Inválido</p>
@@ -26,6 +26,8 @@
         </div>
     </main>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
     <script src="scripts/main.js"></script>
 </body>
 </html>
