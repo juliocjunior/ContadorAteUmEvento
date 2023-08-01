@@ -96,7 +96,7 @@
 74C:\git\repositorio\037 aniversario\node_modules\picomatch\lib\picomatch.js133351926455961772 0
 88C:\git\repositorio\037 aniversario\node_modules\csso\node_modules\css-tree\lib\tokenizer133351926486580848 1
 45C:\git\repositorio\037 aniversario\src\styles133351925736321293 1
-55C:\git\repositorio\037 aniversario\src\styles\main.scss133353734630792540 0
+55C:\git\repositorio\037 aniversario\src\styles\main.scss133353737919074528 0
 78C:\git\repositorio\037 aniversario\node_modules\nth-check\lib\esm\compile.d.ts133351926465231618 0
 71C:\git\repositorio\037 aniversario\node_modules\@parcel\package-manager133351926473198704 1
 110C:\git\repositorio\037 aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133351926468648074 0
@@ -5958,7 +5958,7 @@
 74C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\src\index.js133351926459685854 0
 75C:\git\repositorio\037 aniversario\node_modules\@parcel\bundler-default\src133351926453135737 1
 78C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\src\LMDBCache.js133351926460631007 0
-59C:\git\repositorio\037 aniversario\dist\styles\main.css.map133353734636737479 0
+59C:\git\repositorio\037 aniversario\dist\styles\main.css.map133353737919609366 0
 76C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\FSCache.js133351926451075380 0
 85C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\IDBCache.browser.js133351926453700853 0
 77C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\IDBCache.js133351926457200460 0
@@ -6039,6 +6039,6 @@
 57C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js133353734636672388 0
 61C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js.map133353734636737479 0
 47C:\git\repositorio\037 aniversario\dist\scripts133353734637117498 1
-46C:\git\repositorio\037 aniversario\dist\styles133353734636757651 1
-55C:\git\repositorio\037 aniversario\dist\styles\main.css133353734636652386 0
+46C:\git\repositorio\037 aniversario\dist\styles133353737919639366 1
+55C:\git\repositorio\037 aniversario\dist\styles\main.css133353737919569367 0
 55C:\git\repositorio\037 aniversario\dist\scripts\main.js133353734637057503 0
