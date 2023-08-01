@@ -1,4 +1,4 @@
-const dataDoEvento = new Date('Aug 1, 2023 00:00:01');
+const dataDoEvento = new Date('Aug 1, 2024 00:00:01');
 const timeStampDoEvento = dataDoEvento.getTime();
 
 const contaAsHoras = setInterval(function () {
