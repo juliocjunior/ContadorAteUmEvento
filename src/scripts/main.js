@@ -32,7 +32,7 @@ const contaAsHoras = setInterval(function () {
 $(document).ready(function() {
     const inputCelular = $('#celular');
     
-    inputCelular.mask('00000-0000');
+    inputCelular.mask('(00) 00000-0000');
 });
 
 
