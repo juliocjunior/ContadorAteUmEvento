@@ -1,7 +1,7 @@
 6043
 54C:\git\repositorio\037 aniversario\node_modules\dotenv133351926455951767 1
 82C:\git\repositorio\037 aniversario\node_modules\type-fest\source\set-optional.d.ts133351926468288022 0
-54C:\git\repositorio\037 aniversario\src\scripts\main.js133353731474362825 0
+54C:\git\repositorio\037 aniversario\src\scripts\main.js133353733791553755 0
 77C:\git\repositorio\037 aniversario\node_modules\svgo\plugins\removeDoctype.js133351926470133253 0
 68C:\git\repositorio\037 aniversario\node_modules\braces\lib\expand.js133351926458760710 0
 92C:\git\repositorio\037 aniversario\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133351926456181767 0
@@ -38,7 +38,7 @@
 71C:\git\repositorio\037 aniversario\node_modules\semver\functions\neq.js133351926467282885 0
 72C:\git\repositorio\037 aniversario\node_modules\abortcontroller-polyfill133351926462186181 1
 74C:\git\repositorio\037 aniversario\node_modules\css-tree\lib\syntax\pseudo133351926484710521 1
-39C:\git\repositorio\037 aniversario\dist133353732341228566 1
+39C:\git\repositorio\037 aniversario\dist133353734637117498 1
 63C:\git\repositorio\037 aniversario\node_modules\chalk\readme.md133351926456819626 0
 78C:\git\repositorio\037 aniversario\node_modules\semver\internal\identifiers.js133351926463011342 0
 57C:\git\repositorio\037 aniversario\node_modules\lru-cache133351926452625702 1
@@ -96,7 +96,7 @@
 74C:\git\repositorio\037 aniversario\node_modules\picomatch\lib\picomatch.js133351926455961772 0
 88C:\git\repositorio\037 aniversario\node_modules\csso\node_modules\css-tree\lib\tokenizer133351926486580848 1
 45C:\git\repositorio\037 aniversario\src\styles133351925736321293 1
-55C:\git\repositorio\037 aniversario\src\styles\main.scss133353112033758140 0
+55C:\git\repositorio\037 aniversario\src\styles\main.scss133353734630792540 0
 78C:\git\repositorio\037 aniversario\node_modules\nth-check\lib\esm\compile.d.ts133351926465231618 0
 71C:\git\repositorio\037 aniversario\node_modules\@parcel\package-manager133351926473198704 1
 110C:\git\repositorio\037 aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133351926468648074 0
@@ -2301,7 +2301,7 @@
 105C:\git\repositorio\037 aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\package.json133351926472488655 0
 102C:\git\repositorio\037 aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133351926474378947 0
 79C:\git\repositorio\037 aniversario\node_modules\@swc\helpers\_\_define_property133351926488631180 1
-67C:\git\repositorio\037 aniversario\dist\037 aniversario.59712999.js133353732095016042 0
+67C:\git\repositorio\037 aniversario\dist\037 aniversario.59712999.js133353734637057503 0
 103C:\git\repositorio\037 aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133351926482380167 0
 96C:\git\repositorio\037 aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\tooltag133351926463456451 0
 94C:\git\repositorio\037 aniversario\node_modules\@swc\helpers\cjs\_interop_require_wildcard.cjs133351926472448652 0
@@ -3941,7 +3941,7 @@
 81C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\dist\lib\statuses.js133351926495596365 0
 119C:\git\repositorio\037 aniversario\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertStyleToAttrs.js133351926465406720 0
 99C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\features\css-container-queries.js133351926481505037 0
-50C:\git\repositorio\037 aniversario\dist\index.html133353732341213479 0
+50C:\git\repositorio\037 aniversario\dist\index.html133353734636827655 0
 82C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\dist\lib\supported.js133351926495676369 0
 77C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\browsers.js133351926476114135 0
 77C:\git\repositorio\037 aniversario\node_modules\@parcel\fs\lib\browser.js.map133351926462441290 0
@@ -4504,7 +4504,7 @@
 94C:\git\repositorio\037 aniversario\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133351926449830189 0
 89C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\features\textencoder.js133351926496016391 0
 84C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\features\tls1-1.js133351926496106420 0
-59C:\git\repositorio\037 aniversario\dist\scripts\main.js.map133353732340379051 0
+59C:\git\repositorio\037 aniversario\dist\scripts\main.js.map133353734637107497 0
 90C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\features\transforms2d.js133351926496196417 0
 91C:\git\repositorio\037 aniversario\node_modules\caniuse-lite\data\features\trusted-types.js133351926496226420 0
 111C:\git\repositorio\037 aniversario\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.json133351926465021623 0
@@ -5958,7 +5958,7 @@
 74C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\src\index.js133351926459685854 0
 75C:\git\repositorio\037 aniversario\node_modules\@parcel\bundler-default\src133351926453135737 1
 78C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\src\LMDBCache.js133351926460631007 0
-59C:\git\repositorio\037 aniversario\dist\styles\main.css.map133353732012776083 0
+59C:\git\repositorio\037 aniversario\dist\styles\main.css.map133353734636737479 0
 76C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\FSCache.js133351926451075380 0
 85C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\IDBCache.browser.js133351926453700853 0
 77C:\git\repositorio\037 aniversario\node_modules\@parcel\cache\lib\IDBCache.js133351926457200460 0
@@ -6035,10 +6035,10 @@
 63C:\git\repositorio\037 aniversario\node_modules\.bin\semver.ps1133351926498182240 0
 57C:\git\repositorio\037 aniversario\node_modules\.bin\svgo133351926498182240 0
 75C:\git\repositorio\037 aniversario\node_modules\.bin\update-browserslist-db133351926498192206 0
-71C:\git\repositorio\037 aniversario\dist\037 aniversario.59712999.js.map133353732095196405 0
-57C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js133353732341023652 0
-61C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js.map133353732341078277 0
-47C:\git\repositorio\037 aniversario\dist\scripts133353732340389043 1
-46C:\git\repositorio\037 aniversario\dist\styles133353732012816079 1
-55C:\git\repositorio\037 aniversario\dist\styles\main.css133353732012725856 0
-55C:\git\repositorio\037 aniversario\dist\scripts\main.js133353732340329031 0
+71C:\git\repositorio\037 aniversario\dist\037 aniversario.59712999.js.map133353734637107497 0
+57C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js133353734636672388 0
+61C:\git\repositorio\037 aniversario\dist\index.f75de5e1.js.map133353734636737479 0
+47C:\git\repositorio\037 aniversario\dist\scripts133353734637117498 1
+46C:\git\repositorio\037 aniversario\dist\styles133353734636757651 1
+55C:\git\repositorio\037 aniversario\dist\styles\main.css133353734636652386 0
+55C:\git\repositorio\037 aniversario\dist\scripts\main.js133353734637057503 0

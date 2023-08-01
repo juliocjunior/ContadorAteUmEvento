@@ -65,7 +65,6 @@ document.querySelector('#botao').addEventListener('click', function() {
             const nomeConvidado = nome;
 
             location.reload();
-            console.log(nome);
             alert(`Parabens, ${nomeConvidado}! Sua presença foi marcada.`)
         }
     }
